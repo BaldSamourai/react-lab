@@ -1,0 +1,3 @@
+[submodule "tp-react-product-list"]
+	path = tp-react-product-list
+	url = https://github.com/BaldSamourai/tp-react-product-list
